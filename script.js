@@ -16,5 +16,5 @@ button.addEventListener('click', (e) =>{
         i++;     
     }
 
-    textCounter.innerHTML = `${counter+1} Palavra(s)`
+    textCounter.innerHTML = `${counter+1} Palavras`
 })
